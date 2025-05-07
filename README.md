@@ -1,9 +1,12 @@
-**##Eye Detection System**
+  
+##  Eye ection System
+
+
 - needs OpenCV
 - Run the py file with the required 2 files in the same folder.
 
   
-##  Car🚗 Detection System
+##  Car Detection System
 
 ### Code Requirements
 - Opencv
