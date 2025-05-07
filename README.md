@@ -1,5 +1,5 @@
   
-##  Eye ection System
+##  Eye Detection System
 
 
 - needs OpenCV
